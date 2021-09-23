@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>A</title>
+    <url>/post/d3d99e8b.html</url>
+    <content><![CDATA[<p>高楼大厦</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test666</title>
+    <url>/post/e11d85b5.html</url>
+    <content><![CDATA[<p>666</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>同步到私有库</title>
+    <url>/post/9a3522ba.html</url>
+    <content><![CDATA[<p>同步到github私有库命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#!/bin/bash</span><br><span class="line">git add -A</span><br><span class="line">git commit -m $1</span><br><span class="line">git push --force origin master</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+</search>
